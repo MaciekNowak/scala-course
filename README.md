@@ -1,2 +1,1 @@
-# scala-course
-Functional Programming in Scala
+scala-course
